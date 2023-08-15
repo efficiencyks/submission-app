@@ -70,7 +70,8 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Jakarta',
+    // env('APP_TIMEZONE','Asia/Jakarta'),
 
     /*
     |--------------------------------------------------------------------------

@@ -24,6 +24,7 @@ class HistorySeeder extends Seeder
     // Create Pending submission history record
     self::pendingHistory();
     sleep(5);
+    
 
     // Create Approved submission histories record
     self::approvedHistory();
